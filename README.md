@@ -1,7 +1,7 @@
 # Surfs_up,
 Exploring Weather Data by the use of SQLAlchemy to connect to and query a SQLite database, analyzing data with Python (Pandas functions and methods), plotting graphs with Matplotlib comprehensive library and building a Climate App Using Flask.
 
-Results: 
+## Results: 
 
 The purpose of this project  was to create a strong business plan which will rely on our Weather Data Analysis as key information to potential Inverstors for "Surf and Shake" shop in Oahu, Hawaii serving surfboards and ice cream to locals, tourists and you reading this github repository.
 
