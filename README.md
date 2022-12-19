@@ -1,7 +1,7 @@
 # Surfs_up,
 Exploring Weather Data by the use of SQLAlchemy to connect to and query a SQLite database, analyzing data with Python (Pandas functions and methods), plotting graphs with Matplotlib comprehensive library and building a Climate App Using Flask.
 
-## Results: 
+## Results : 
 
 The purpose of this project  was to create a strong business plan which will rely on our Weather Data Analysis as key information to potential Inverstors for "Surf and Shake" shop in Oahu, Hawaii serving surfboards and ice cream to locals, tourists and you reading this github repository.
 
@@ -19,5 +19,13 @@ Weather Data Analysis major points :
 * Standard deviation (measure of how dispersed the data is in relation to the mean) for two data sets is almost similar
 * Focusing on 75 % summary statistics data from both data sets we can conclude that temperature disparity between month of  June and the month of  December won't have a negative impact on our business decisions
 
-Summary: 
+
+
+### Summary : 
+In order to back up our business plan we performed additional  analyses on our data set to get information on precipitation data for the month of June and December.
+Based on summary statistic we can definitely conclude that month of December has more precipitation than the month of June, taking that into account December is one of  the wettest month on Oahu, with the mean of 0.22  inches per hour it is still considered moderate rainfall, according to meteorological standards (rain is classified as light, meaning rain falling at a rate between a trace and 0.10 inches per hour; moderate, 0.11 to 0.30 inches per hour; heavy, more than 0.30 inches per hour).
+We included Data sample in the graphical analysis for more comprehensive results.
+Our data is backing up our project as safe to go venture.
+
+
 
