@@ -1,5 +1,5 @@
 # Surfs_up,
-Exploring Weather Data by the use of SQLAlchemy to connect to and query a SQLite database, analyzing data with Python (Pandas functions and methods), plotting graphs with Matplotlib comprehensive library and building a Climate App Using Flask.
+Exploring Weather Data by the use of SQLAlchemy to connect to and query a SQLite database, analyzing data with Python (Pandas functions and methods), plotting graphs with Matplotlib comprehensive library and building a Climate App using Flask.
 
 ## Results : 
 
@@ -19,7 +19,7 @@ Weather Data Analysis major points :
 * Standard deviation (measure of how dispersed the data is in relation to the mean) for two data sets is almost similar
 * Focusing on 75 % summary statistics data from both data sets we can conclude that temperature disparity between month of  June and the month of  December won't have a negative impact on our business decisions
 
-
+To present our data to potential investors, we created a [Climate App](https://github.com/MilosPopov007/Surfs_up/blob/main/app.py) using the Flask application with set out rout for each segment of our analysis: Precipitation, Stations, Monthly Temperature, and Statistics, as well as a welcome route associated with the webpage.
 
 ### Summary : 
 In order to back up our business plan we performed additional  analyses on our data set to get information on precipitation data for the month of June and December.
