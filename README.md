@@ -7,7 +7,7 @@ The purpose of this project  was to create a strong business plan which will rel
 
 Specifically, for this analysis, we want to focus on temperature trend data for the months of June and December in Oahu, in order to determine if the "Surf and Shake" shop business is sustainable year-round.
 
- Analysis stages :
+ [Analysis stages :](https://github.com/MilosPopov007/Surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 * Import dependencies and set up a Python SQL toolkit and Object Relational Mapper
 * Write a query that filters the date column from the Measurement table to retrieve all the temperatures for the month of June and December
 * Convert the temperatures to a list
