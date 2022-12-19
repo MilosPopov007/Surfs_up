@@ -14,6 +14,8 @@ Specifically, for this analysis, we want to focus on temperature trend data for 
 * Create a DataFrame from the list of temperatures
 * Generate the summary statistics for the June and December temperatures DataFrame
 
+![This is an image](https://github.com/MilosPopov007/Surfs_up/blob/main/June_Temps.png) ![This is an image](https://github.com/MilosPopov007/Surfs_up/blob/main/December_Temps.png)
+
 Weather Data Analysis major points :
 * Looking at data summary statistic we can conclude that average temperatures for the  month of  June are slightly higher than average temperatures for the month of December
 * Standard deviation (measure of how dispersed the data is in relation to the mean) for two data sets is almost similar
