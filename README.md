@@ -28,7 +28,9 @@ To present our data to potential investors, we created a [Climate App](https://g
 ![This is an image](https://github.com/MilosPopov007/Surfs_up/blob/main/June_precipitation.png) ![This is an image](https://github.com/MilosPopov007/Surfs_up/blob/main/Decemeber_precipitation.png)
 
 In order to back up our business plan we performed additional  analyses on our data set to get information on precipitation data for the month of June and December.
+
 Based on summary statistic we can definitely conclude that month of December has more precipitation than the month of June, taking that into account December is one of  the wettest month on Oahu, with the mean of 0.22  inches per hour it is still considered moderate rainfall, according to meteorological standards (rain is classified as light, meaning rain falling at a rate between a trace and 0.10 inches per hour; moderate, 0.11 to 0.30 inches per hour; heavy, more than 0.30 inches per hour).
+
 We included [Data sample](https://github.com/MilosPopov007/Surfs_up/blob/main/climate_analysis.ipynb) in the graphical analysis for more comprehensive results.
 Our data is backing up our project as safe to go venture.
 
