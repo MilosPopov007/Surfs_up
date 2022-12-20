@@ -1,4 +1,4 @@
-# Surfs_up,
+# Surfs_up
 Exploring Weather Data by the use of SQLAlchemy to connect to and query a SQLite database, analyzing data with Python (Pandas functions and methods), plotting graphs with Matplotlib comprehensive library and building a Climate App using Flask.
 
 ## Results : 
